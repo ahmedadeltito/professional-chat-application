@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProfessionalChatApplication</string>
+    <string name="text_that_user_writes">Text That User Writes:</string>
+    <string name="please_enter_your_message">Please Enter Your Message…</string>
+    <string name="text_accuracy">Text Accuracy :</string>
+    <string name="check_words">Check Words</string>
+
+</resources>
